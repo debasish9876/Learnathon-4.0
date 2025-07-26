@@ -13,3 +13,8 @@
 <img width="1566" height="762" alt="image" src="https://github.com/user-attachments/assets/482959cb-dd28-49a0-81a0-92d9fc905b8d" />
 <img width="1617" height="661" alt="image" src="https://github.com/user-attachments/assets/11778d42-2b8d-47ec-b407-9ed263ad6616" />
 <img width="778" height="437" alt="image" src="https://github.com/user-attachments/assets/26238f68-d6e5-4f84-97c5-fcc7ef77a020" />
+
+[Download Fraud Detection Report](./Data_Analysis.docx)
+
+<br>
+<br>
